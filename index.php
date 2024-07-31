@@ -20,7 +20,7 @@
             "CAIXA"=> "www.caixa.gov.br",
             "GOOGLE"=> "www.google.com.br",
             "LOCALHOST"=> "localhost:3000",
-            "INTERNACIONAL"=>"www.brb.com.br"
+            "INTERNACIONAL"=>"www.olx.com.br"
         ];
         ?>
 
